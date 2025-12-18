@@ -7,7 +7,7 @@ int main(void)
     // Aufgabe 1: Weihnachtskekse
 
    float a = 10;
-   int b = 5;
+   float b = 5;
     scanf("x = number_biscuits , y = diameter_bisvuit");
     scanf("pow(%f, 2)* M_PI = %f");
     printf("Gib die Gesammt Fläche aus" ,a = 10,b = 5);
@@ -30,8 +30,12 @@ int main(void)
     float x = 1.50;
     float y = 4.90;
 
-    scanf("x = 1.50, y = 4.90");
+    scanf("x = candles, y = balls");
+    printf("Gib die gesammtkosten aus");
+    printf("%f * x + %f * y = %f", x = 1.50, y = 4.90);
 
+
+    printf("%d%%d = %d");
 
 
 
